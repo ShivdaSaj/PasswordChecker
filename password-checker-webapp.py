@@ -108,7 +108,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Made in Streamlit with ❤️ by <a href='https://github.com/mayursrt'>Mayur</a>.
+<p>Made in Streamlit with ❤️ by <a href='https://sajinshivdas.com/cybersecurity/infosec-tools-and-utilities/'>Sajin Shivdas</a>.
 
 </p>
 </div>
